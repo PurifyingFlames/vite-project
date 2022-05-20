@@ -117,6 +117,7 @@ onMounted(() => {
   // console.log(store.state.count);
 
   // console.log('%c [  ]-119', 'font-size:13px; background:pink; color:#bf2c9f;', useMapState(['count']))
+  console.log();
   n.value = 6;
   nextTick(() => {
     // console.log(ref1.value.innerHTML);
